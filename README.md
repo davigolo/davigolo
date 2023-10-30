@@ -14,6 +14,7 @@
 - 📱Desarrollador móvil
 - 📅Organizado
 - 📈Ganas de aprender
+- 👥Trabajo en equipo
 
 ## 🛠️Lenguajes/Herramientas
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
