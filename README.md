@@ -10,10 +10,19 @@
   <a href="https://online.updf.com/index/share/es-ES?shareId=944e6a21-17f3-4284-89ef-a5b07db39f44"><img src="https://img.shields.io/badge/CV-%23D4D4D4.svg?style=for-the-badge&amp;logo=readdotcv&amp;logoColor=black" alt="CV"></a></p>
 </div>
 
-## Sobre mi 
+## 👨‍💻Sobre mi 
 - 📱Desarrollador móvil
 - 📅Organizado
 - 📈Ganas de aprender
+
+## 🛠️Lenguajes/Herramientas
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Java" alt="Java" width="37" height="37"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
 
 ## Proyectos
 
