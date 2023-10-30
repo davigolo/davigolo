@@ -11,8 +11,21 @@
 </div>
 
 ## Sobre mi 
--📱Mobile developer
--
+- 📱Desarrollador móvil
+- 📅Organizado
+- 📈Ganas de aprender
 
+## Proyectos
 
-
+<table>
+ <tr>
+  <td width="50%">
+   <p align="center">GamerGames</p>
+   <a href="https://www.educative.io" target="_blank"><img src="https://i.imgur.com/7MIDUoM.png"></a>
+  </td>
+  <td width="50%">
+   <p align="center">Próximo proyecto</p>
+   <a href="https://www.educative.io" target="_blank"><img src="https://i.imgur.com/7MIDUoM.png"></a>
+  </td>
+ </tr>
+</table>
