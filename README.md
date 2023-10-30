@@ -45,7 +45,7 @@
 <table align="center">
  <tr>
   <td width="50%">
-   <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigolo&amp;layout=pie" alt="Top Langs"></a></p>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigolo&amp;layout=compact" alt="Top Langs"></p>
   </td>
   <td width="50%">
    <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=davigolo" alt="Mis estadisticas"></a></p>
