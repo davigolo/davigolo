@@ -25,17 +25,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 
-## Proyectos
+## 💻Proyectos
 
 <table>
  <tr>
+  <td><p align="center">GamerGames</p></td>
+  <td><p align="center">People Counter</p></td>
+ </tr>
+ <tr>
   <td width="50%">
-   <p align="center">GamerGames</p>
    <a href="https://github.com/davigolo/Gamer-games" target="_blank"><img src="https://i.imgur.com/PM8eilZ.png"></a>
   </td>
   <td width="50%">
-   <p align="center">People Counter</p>
-   <a href=""><img src="https://i.imgur.com/7MIDUoM.png"></a>
+   <a href=""><img src="https://i.imgur.com/INqMWRA.png"></a>
   </td>
  </tr>
 </table>
