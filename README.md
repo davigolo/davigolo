@@ -31,11 +31,11 @@
  <tr>
   <td width="50%">
    <p align="center">GamerGames</p>
-   <a href="https://www.educative.io" target="_blank"><img src="https://i.imgur.com/7MIDUoM.png"></a>
+   <a href="https://github.com/davigolo/Gamer-games" target="_blank"><img src="https://i.imgur.com/PM8eilZ.png"></a>
   </td>
   <td width="50%">
-   <p align="center">Próximo proyecto</p>
-   <a href="https://www.educative.io" target="_blank"><img src="https://i.imgur.com/7MIDUoM.png"></a>
+   <p align="center">People Counter</p>
+   <a href=""><img src="https://i.imgur.com/7MIDUoM.png"></a>
   </td>
  </tr>
 </table>
