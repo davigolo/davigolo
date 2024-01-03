@@ -33,11 +33,11 @@
   <td><p align="center">People Counter</p></td>
  </tr>
  <tr>
-  <td width="50%">
+  <td width="50%" align="center">
    <a href="https://github.com/davigolo/Gamer-games" target="_blank"><img src="https://i.imgur.com/PM8eilZ.png"></a>
   </td>
-  <td width="50%">
-   <a href=""><img src="https://i.imgur.com/INqMWRA.png"></a>
+  <td width="50%" align="center">
+   <a href="https://github.com/davigolo/People-counter"><img src="https://i.imgur.com/fAitIQt.png?1"></a>
   </td>
  </tr>
 </table>
