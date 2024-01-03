@@ -27,7 +27,7 @@
 
 ## 💻Proyectos
 
-<table>
+<table align="center">
  <tr>
   <td><p align="center">GamerGames</p></td>
   <td><p align="center">People Counter</p></td>
@@ -37,7 +37,7 @@
    <a href="https://github.com/davigolo/Gamer-games" target="_blank"><img src="https://i.imgur.com/PM8eilZ.png"></a>
   </td>
   <td width="50%" align="center">
-   <a href="https://github.com/davigolo/People-counter"><img src="https://i.imgur.com/fAitIQt.png?1"></a>
+   <a href="https://github.com/davigolo/People-counter"><img src="https://i.imgur.com/fAitIQt.png?1" width="70%"></a>
   </td>
  </tr>
 </table>
