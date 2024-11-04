@@ -9,12 +9,6 @@
   <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 </div>
 
-## 👨‍💻Sobre mi 
-- 📱Desarrollador móvil
-- 📅Organizado
-- 📈Ganas de aprender
-- 👥Trabajo en equipo
-
 ## 🛠️Lenguajes/Herramientas
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -23,23 +17,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
-
-## 💻Proyectos
-
-<table align="center">
- <tr>
-  <td><p align="center">GamerGames</p></td>
-  <td><p align="center">People Counter</p></td>
- </tr>
- <tr>
-  <td width="50%" align="center">
-   <a href="https://github.com/davigolo/Gamer-games" target="_blank"><img src="https://i.imgur.com/PM8eilZ.png"></a>
-  </td>
-  <td width="50%" align="center">
-   <a href="https://github.com/davigolo/People-counter"><img src="https://i.imgur.com/fAitIQt.png?1" width="70%"></a>
-  </td>
- </tr>
-</table>
 
 ## 🔥Estadisticas
 
