@@ -26,7 +26,6 @@
    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davigolo&amp;layout=compact" alt="Top Langs"></p>
   </td>
   <td width="50%">
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=davigolo)
   </td>
  </tr>
 </table>
